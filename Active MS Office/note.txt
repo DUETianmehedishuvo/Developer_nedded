@@ -1,0 +1,2 @@
+1. Run the activate.cmd file as admin and a command prompt window will appear and would try to activate office. After activation, the cmd window would disappear.
+2. Launch your office apps and check the activation status. It should be activated now.
